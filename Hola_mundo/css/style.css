@@ -1,0 +1,14 @@
+#titulo{
+    background-color: darkseagreen;
+    width: 50%;
+}
+#java1{
+    background-color: hotpink;
+    font-size: 25px;
+    
+    width: 45%;
+}
+#cuadro2{
+    width: 45%;
+    float: left;
+}
